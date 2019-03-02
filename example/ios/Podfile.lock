@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - logger_plugin_conditional (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - logger_plugin_conditional (from `.symlinks/plugins/logger_plugin_conditional/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  logger_plugin_conditional:
+    :path: ".symlinks/plugins/logger_plugin_conditional/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  logger_plugin_conditional: c423e85b2a6532c3352b0d3b0e2216a1475c3019
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.5.3
